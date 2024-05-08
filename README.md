@@ -1,6 +1,6 @@
 # flutter_billionaire_app
 
-A new Flutter project.
+Welcome to the Billionaire App repository! This Flutter project is dedicated to crafting an engaging mobile application. Built with Flutter, the app features a dynamic button that triggers various entertaining functionalities. Whether you're a Flutter enthusiast, developer, or designer, your contributions and ideas are highly valued.
 
 ## Getting Started
 
